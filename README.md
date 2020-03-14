@@ -1,3 +1,5 @@
-# My kind of first Web Page
+# First project deployed on GitHub @Code Institute's course.
 
-Welcome!
+This project uses HTLM and CSS to demonstrate a Navbar and links to different webpages.
+
+All links about the technologies are pointing to Wikipedia.
